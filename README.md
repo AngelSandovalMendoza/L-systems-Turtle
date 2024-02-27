@@ -10,7 +10,7 @@ Este es un programa en Python que utiliza la biblioteca Turtle para graficar un 
 ## Instrucciones de Uso
 
 1. Clona el repositorio o descarga el archivo ZIP.
-2. Ejecuta el script `sistema_l_turtle.py`.
+2. Ejecuta el script `L-system.py`.
 
 ## Personalización
 
